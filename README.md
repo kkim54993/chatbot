@@ -1,7 +1,7 @@
 ## Welcome to 경오선생님 방
 
 👩🥓오늘 처음 챗봇을 만들어 봄
-앞으로 수정한 내용을 적어볼 예정임
+ 앞으로 수정한 내용을 적어볼 예정임
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
